@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected{
+  color: rgb(184, 13, 70) !important;
+}
+.css-1aquho2-MuiTabs-indicator{background-color:rgb(184, 13, 70) !important ;}
+.css-heg063-MuiTabs-flexContainer{
+  justify-content: center !important;
+}
