@@ -98,7 +98,7 @@ const Contact = () => {
                     </div>
                   </div>
                 </div>
-
+                   <br/>
                 <div class="row">
                   <div class="col-md-12">
                     <div class="md-form mb-0">
@@ -116,6 +116,7 @@ const Contact = () => {
                     </div>
                   </div>
                 </div>
+                <br/>
                 <div class="row">
                   <div class="col-md-12">
                     <div class="md-form mb-0">
