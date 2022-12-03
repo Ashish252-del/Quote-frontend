@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quote-frontend/static/css/main.4c7985b5.css",
+    "main.js": "/Quote-frontend/static/js/main.0c579fe1.js",
+    "index.html": "/Quote-frontend/index.html",
+    "main.4c7985b5.css.map": "/Quote-frontend/static/css/main.4c7985b5.css.map",
+    "main.0c579fe1.js.map": "/Quote-frontend/static/js/main.0c579fe1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c7985b5.css",
+    "static/js/main.0c579fe1.js"
+  ]
+}
